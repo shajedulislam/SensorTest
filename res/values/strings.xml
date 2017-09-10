@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test Sensors</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="proxy1">Proximity Sensor :</string>
+    <string name="title_activity_proximity_sensor">Proximity Sensor</string>
+    <string name="title_activity_accelerometer">Accelerometer</string>
+
+</resources>
